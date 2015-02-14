@@ -9,7 +9,7 @@ XthemeCore
 ## License
 
 This project means Testing Project.
-The contents mean graphics and audio which were used in this project.
+The contents of this project mean graphic and audio which were used in this project.
 The contents may or may not be referred as the third party resources which
 cannot be included in the source code.
 
